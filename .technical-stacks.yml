@@ -8,5 +8,6 @@ config:
       - md
 techstack:
 application:
-  - html:1.0.0
-  - css:1.0.0
+  - java:1.0.0
+  - php:1.0.0
+  - sass:1.0.0
